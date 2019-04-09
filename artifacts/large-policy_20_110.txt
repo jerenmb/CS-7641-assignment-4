@@ -1,0 +1,45 @@
+Starting reachability analysis
+Finished reachability analysis; # states: 226
+Iterations in inner VI for policy eval: 110
+Iterations in inner VI for policy eval: 110
+Iterations in inner VI for policy eval: 110
+Iterations in inner VI for policy eval: 106
+Iterations in inner VI for policy eval: 48
+Iterations in inner VI for policy eval: 88
+Iterations in inner VI for policy eval: 110
+Iterations in inner VI for policy eval: 68
+Iterations in inner VI for policy eval: 59
+Iterations in inner VI for policy eval: 81
+Iterations in inner VI for policy eval: 15
+Iterations in inner VI for policy eval: 11
+Iterations in inner VI for policy eval: 14
+Iterations in inner VI for policy eval: 4
+Iterations in inner VI for policy eval: 1
+Total policy iterations: 15
+Num generated: 3616; num unique: 227
+Episode, Steps, Reward, Time (in milliseconds)
+1, 441, -44.000000000000355, 2828
+2, 441, -44.000000000000355, 3454
+3, 441, -44.000000000000355, 5086
+4, 441, -44.000000000000355, 6817
+5, 441, -44.000000000000355, 7582
+6, 441, -44.000000000000355, 8920
+7, 441, -44.000000000000355, 10686
+8, 441, -44.90000000000037, 11781
+9, 441, -44.000000000000355, 12702
+10, 69, -15.499999999999979, 13919
+11, 88, -13.299999999999983, 14091
+12, 103, -10.19999999999998, 14263
+13, 98, -9.699999999999982, 14581
+14, 96, -9.499999999999982, 14639
+15, 101, -12.699999999999982, 14568
+16, 93, -10.999999999999975, 14601
+17, 104, -12.09999999999998, 14662
+18, 100, -9.89999999999998, 14607
+19, 100, -9.89999999999998, 14595
+20, 113, -11.199999999999976, 14564
+
+Average Reward: -26.095000000000148
+Average Number of Steps: 251
+Minimum Number of Steps: 69
+Average Time (in milliseconds): 11447

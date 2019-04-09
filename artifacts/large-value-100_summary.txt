@@ -1,0 +1,4 @@
+Average Reward: -42.8810000000004
+Average Number of Steps: 429
+Minimum Number of Steps: 102
+Average Time (in milliseconds): 642
